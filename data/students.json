@@ -6,12 +6,21 @@
       "photo": "images/headshots/resherle-verna.jpg",
       "url": "https://www.linkedin.com/in/resherle-verna-96945898"
     },
+	  
+    "deepanshu": {
+      "name": "Deepanshu Jain",
+      "email": "jaind@usc.edu",
+      "photo": "images/headshots/deepanshu-jain.jpeg",
+      "url": "https://www.linkedin.com/in/deepanshu-jain-01/"
+    },
+	  
     "yash": {
       "name": "Yash A Shah",
       "email": "yashah@usc.edu",
       "photo": "images/headshots/Yash_Shah_Headshot.jpg",
       "url": "https://www.linkedin.com/in/yashashah"
     },	
+	  
     "suchith":{
       "name": "Suchith Prathapaneni",
       "email": "sprathap@usc.edu",
@@ -481,7 +490,8 @@
     {"id": "omid", "terms": ["Fall 2017", "Summer 2018"]},
     {"id": "srinidhi", "terms": ["Spring 2017", "Summer 2018"]},
     {"id": "prerana", "terms": ["Summer 2018", "Fall 2018"]},
-    {"id": "suchith", "terms": ["Spring 2023"]}	  
+    {"id": "suchith", "terms": ["Spring 2023"]},
+    {"id": "deepanshu", "terms": ["Spring 2024"]}
 	  
 	  
   ]
